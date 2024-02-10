@@ -1,0 +1,54 @@
+/* 
+  Style your elements by creating CSS classes here.
+  Below, you can see an example of a class called "menu" that changes the color of the text to blue. Modify according to your needs.
+*/
+
+.menu {
+  color: blue;
+}
+body {
+  color: hotpink;
+}
+.logo-image{
+  max-width: 70%;
+  border-radius: 25px;
+}
+.menu-image{
+  width: 75%;
+  height: auto;
+  border-radius: 25px;
+}
+.menu-item{
+  font-size: medium;
+  color: black;
+  font-family: initial;
+  font-weight: bolder;
+}
+.item-desc{
+  color: black;
+  font-family: initial;
+  font-size: small;
+  font-weight: lighter;
+}
+.item-price{
+  color: black;
+  font-family: initial;
+  font-size: small;
+  font-weight: bold;
+}
+.button{
+  font-family: initial;
+  font-size: medium;
+  border-radius: 25px;
+  font-weight: bolder;
+}
+#desc{
+  color: gray;
+  font-family: initial;
+  font-size: x-large;
+}
+div{
+  color: red;
+  font-family: cursive;
+  font-size: xx-large;
+}
