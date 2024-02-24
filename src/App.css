@@ -42,6 +42,9 @@ body {
   border-radius: 25px;
   font-weight: bolder;
 }
+.small-text{
+  font-size: 1.5rem;
+}
 #desc{
   color: gray;
   font-family: initial;
